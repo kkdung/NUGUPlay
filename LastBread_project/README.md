@@ -90,7 +90,7 @@ AI 스피커를 통해 **음성으로 플레이** 한다는 특징을 최우선�
 일반적으로는 **Parameter** 이외에는 건드릴 일은 없습니다. 왜냐하면 챗봇의 경우 결국 데이터의 전달로 구현을 하기 때문입니다. 만약 다른 요소를 건드려야 할 경우 수정을 하시면 됩니다.
 
 ## 데모영상
-[![LastBread 데모영상](http://img.youtube.com/vi/SGdDEcz-w2w/0.jpg)](https://www.youtube.com/watch?v=SGdDEcz-w2w)
+[![LastBread 데모영상](http://img.youtube.com/vi/SGdDEcz-w2w/maxresdefault.jpg)](https://www.youtube.com/watch?v=SGdDEcz-w2w)
 
 *이미지를 클릭하면 링크연결*
 
@@ -100,7 +100,7 @@ AI 스피커를 통해 **음성으로 플레이** 한다는 특징을 최우선�
 
 ## 수상
 
-### <center>🏆2019 SKT NUGU Play 공모전(상반기) - 우수상, 500만원🏆</center>
+### 🏆2019 SKT NUGU Play 공모전(상반기) - 우수상, 500만원🏆
 
 <p align="center">
 <img src="./img/lastbread_상장.png?raw=true"/ width = "450px">
