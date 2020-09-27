@@ -1,9 +1,5 @@
 # 셀보이스 - 온라인 판매자를 위한 인공지능 비서
 
-<p align="center">
-<img src="./img/sellvoice.png?raw=true"/ width = "600px">
-</p>
-
 
 
 ## 개요
@@ -13,13 +9,17 @@
 
 
 <p align="center">
-  <img src="./img/마이셀러.png?raw=true"/ width = "350px">
+  <img src="./img/마이셀러.png?raw=true"/ width = "250px">
 </p>
 <p align="center"><strong></strong></p>
 
 
 
 아직 쇼핑몰 API와 음성 인테퍼이스를 통해 서비스 하기에는 제약사항이 있어(판매자 key입력 필요) **삼성 Bixby 캡슐로 출시**했습니다.
+
+
+
+
 
 
 
@@ -39,6 +39,8 @@
 
   
 
+
+
 ## 상세 기능
 
 [![LastBread 데모영상](http://img.youtube.com/vi/PYBT3ALpQSg/maxresdefault.jpg)](https://www.youtube.com/watch?v=PYBT3ALpQSg)
@@ -47,11 +49,11 @@
 
 
 
-## 주요코드 설명
 
 
+## 주요코드
 
-### ...업데이트중
+...업데이트 예정
 
 
 
