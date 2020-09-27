@@ -100,11 +100,15 @@ AI 스피커를 통해 **음성으로 플레이** 한다는 특징을 최우선�
 
 ## 수상
 
+### <center>🏆2019 SKT NUGU Play 공모전(상반기) - 우수상, 500만원🏆</center>
+
+<p align="center">
+<img src="./img/lastbread_상장.png?raw=true"/ width = "350px">
+</p>
 
 
-2019 SKT NUGU Play 공모전(상반기) - 우수상
 
-
+관련기사 : https://www.sktelecom.com/advertise/press_detail.do?idx=4874
 
 
 
