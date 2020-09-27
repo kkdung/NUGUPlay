@@ -108,9 +108,11 @@ AI 스피커를 통해 **음성으로 플레이** 한다는 특징을 최우선�
 
 
 
-관련기사 : https://www.sktelecom.com/advertise/press_detail.do?idx=4874
+관련기사 : 
 
+https://www.sktelecom.com/advertise/press_detail.do?idx=4874
 
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=277&aid=0004457066
 
 ## 개발
 
