@@ -1,0 +1,53 @@
+{      
+    "userSetting":{
+        "roomKey":"",
+        "player":"",
+        "bettingAvailabilty":false
+    },
+    "roomSetting":{        
+        "playerCount":0,
+        "player1":"user",
+        "player2":"A",
+        "player3":"B",
+        "player4":"C",
+        "firstEntryTime": 0,
+        "firstBettingTime": 0,
+        "firstBettingEnd":false,
+        "firstEntryNextDay":false,
+        "day":1,
+        "day1": {
+            "player1":{
+                "money":100000,
+                "bread":2,        
+                "betting":0,
+                "bettingState":false,        
+                "life":true  
+            },
+            "player2": {
+                "money":100000,
+                "bread":2,        
+                "betting":0,
+                "bettingState":false,        
+                "life":true 
+            },
+            "player3": {
+                "money":100000,
+                "bread":2,        
+                "betting":0,
+                "bettingState":false,        
+                "life":true 
+            },
+            "player4":{
+                "money":100000,
+                "bread":2,        
+                "betting":0,
+                "bettingState":false,        
+                "life":true 
+            },
+            "endOfDay":{
+                "maxBettingPlayer":"",
+                "maxBetting":0
+            }
+        }
+    }
+}
